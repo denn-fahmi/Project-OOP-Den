@@ -92,6 +92,11 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-## hasil eksekusi
+## penjelasan dan hasil eksekusi
 ![gambar2](D9.PNG)
+### Tambah Data:
+- Pilihan ini digunakan untuk menambahkan data baru ke dalam sistem.
+- Pengguna akan diminta untuk memasukkan NIM (Nomor Induk Mahasiswa) dan nama mahasiswa.
+- Data yang dimasukkan akan disimpan dalam sistem. <p>
+![gambar3](D10.PNG)
 
