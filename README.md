@@ -105,10 +105,13 @@ if __name__ == "__main__":
 - Jika NIM ditemukan, pengguna akan diminta untuk memasukkan data baru untuk mahasiswa tersebut. <p>
 
 ### Tampilkan List Data:
--Pilihan ini digunakan untuk menampilkan seluruh data yang ada di dalam sistem.
+-Pilihan ini digunakan untuk menampilkan seluruh data yang ada di dalam sistem. <p>
 -Semua data mahasiswa yang tersimpan akan ditampilkan dalam bentuk daftar. <p>
 ![gambar3](D10.PNG)
 ### Hapus Data:
-- Pilihan ini digunakan untuk menghapus data yang sudah ada di dalam sistem.
-- Pengguna akan diminta untuk memasukkan NIM dari mahasiswa yang datanya ingin dihapus.
+- Pilihan ini digunakan untuk menghapus data yang sudah ada di dalam sistem. <p>
+- Pengguna akan diminta untuk memasukkan NIM dari mahasiswa yang datanya ingin dihapus. <p>
 - Jika NIM ditemukan, data mahasiswa tersebut akan dihapus dari sistem. <p>
+### Keluar:
+- Pilihan ini digunakan untuk keluar dari program.
+- Program akan berhenti berjalan dan kembali ke sistem operasi.
