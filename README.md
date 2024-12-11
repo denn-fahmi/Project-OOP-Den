@@ -102,6 +102,13 @@ if __name__ == "__main__":
 ### Ubah Data:
 - Pilihan ini digunakan untuk mengubah data mahasiswa yang sudah ada.
 - Pengguna akan diminta untuk memasukkan NIM dari mahasiswa yang datanya ingin diubah.
-- Jika NIM ditemukan, pengguna akan diminta untuk memasukkan data baru untuk mahasiswa tersebut.
-![gambar3](D10.PNG)
+- Jika NIM ditemukan, pengguna akan diminta untuk memasukkan data baru untuk mahasiswa tersebut. <p>
 
+### Tampilkan List Data:
+-Pilihan ini digunakan untuk menampilkan seluruh data yang ada di dalam sistem.
+-Semua data mahasiswa yang tersimpan akan ditampilkan dalam bentuk daftar. <p>
+![gambar3](D10.PNG)
+### Hapus Data:
+- Pilihan ini digunakan untuk menghapus data yang sudah ada di dalam sistem.
+- Pengguna akan diminta untuk memasukkan NIM dari mahasiswa yang datanya ingin dihapus.
+- Jika NIM ditemukan, data mahasiswa tersebut akan dihapus dari sistem. <p>
