@@ -112,6 +112,10 @@ if __name__ == "__main__":
 - Pilihan ini digunakan untuk menghapus data yang sudah ada di dalam sistem. <p>
 - Pengguna akan diminta untuk memasukkan NIM dari mahasiswa yang datanya ingin dihapus. <p>
 - Jika NIM ditemukan, data mahasiswa tersebut akan dihapus dari sistem. <p>
+### Cari Data:
+- Pilihan ini digunakan untuk mencari data tertentu di dalam sistem. <p>
+- Pengguna akan diminta untuk memasukkan NIM dari mahasiswa yang datanya ingin dicari. <p>
+- Jika NIM ditemukan, detail data mahasiswa tersebut akan ditampilkan. <p>
 ### Keluar:
 - Pilihan ini digunakan untuk keluar dari program.
 - Program akan berhenti berjalan dan kembali ke sistem operasi.
