@@ -98,5 +98,10 @@ if __name__ == "__main__":
 - Pilihan ini digunakan untuk menambahkan data baru ke dalam sistem.
 - Pengguna akan diminta untuk memasukkan NIM (Nomor Induk Mahasiswa) dan nama mahasiswa.
 - Data yang dimasukkan akan disimpan dalam sistem. <p>
+
+### Ubah Data:
+- Pilihan ini digunakan untuk mengubah data mahasiswa yang sudah ada.
+- Pengguna akan diminta untuk memasukkan NIM dari mahasiswa yang datanya ingin diubah.
+- Jika NIM ditemukan, pengguna akan diminta untuk memasukkan data baru untuk mahasiswa tersebut.
 ![gambar3](D10.PNG)
 
