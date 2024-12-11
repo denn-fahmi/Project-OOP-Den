@@ -2,7 +2,8 @@
 ## struktur dari direktori <p>
 ![gambar1](D12.PNG) <p>
 ## Berikut adalah program python <p>
-''' class Mahasiswa:
+```
+ class Mahasiswa:
     def __init__(self, nim, nama):
         self.nim = nim
         self.nama = nama
@@ -90,4 +91,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-'''
+``` <p>
+
