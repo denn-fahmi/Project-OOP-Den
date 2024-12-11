@@ -91,5 +91,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-``` <p>
+```
+## hasil eksekusi
+![gambar2](D9.PNG)
 
